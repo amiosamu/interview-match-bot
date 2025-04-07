@@ -14,7 +14,6 @@ A Telegram bot that helps developers find interview preparation partners based o
 
 1. Create a new bot with [@BotFather](https://t.me/botfather) on Telegram
 2. Get your bot token
-3. Replace `YOUR_BOT_TOKEN` in `main.go` with your actual bot token
 4. Install dependencies:
    ```bash
    go mod download
