@@ -20,6 +20,7 @@ vendor/
 .env.docker
 .env.production
 .env.local
+.env.db
 
 # Log files
 *.log

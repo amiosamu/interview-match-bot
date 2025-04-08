@@ -26,8 +26,6 @@ func main() {
 	dbURL := os.Getenv("DATABASE_URL")
 	if dbURL == "" {
 		log.Println("DATABASE_URL not set. Quiz functionality will not work properly.")
-		// You could set a default for development here
-		dbURL = "postgres://postgres:postgres@localhost:5432/interview_bot?sslmode=disable"
 	}
 
 	// Connect to the database
