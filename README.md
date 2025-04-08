@@ -33,6 +33,7 @@ A Telegram bot that helps developers find interview preparation partners based o
    - `/middle` - Middle
    - `/senior` - Senior
 4. The bot will notify you when it finds someone matching your criteria
+5. Prepare for your interview with '/prepare'
 
 ## Development
 
